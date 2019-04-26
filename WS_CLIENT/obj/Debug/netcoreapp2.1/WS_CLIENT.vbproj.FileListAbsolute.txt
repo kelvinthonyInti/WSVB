@@ -1,0 +1,11 @@
+C:\Users\Kelv\source\repos\WS_CLIENT\WS_CLIENT\bin\Debug\netcoreapp2.1\WS_CLIENT.deps.json
+C:\Users\Kelv\source\repos\WS_CLIENT\WS_CLIENT\bin\Debug\netcoreapp2.1\WS_CLIENT.runtimeconfig.json
+C:\Users\Kelv\source\repos\WS_CLIENT\WS_CLIENT\bin\Debug\netcoreapp2.1\WS_CLIENT.runtimeconfig.dev.json
+C:\Users\Kelv\source\repos\WS_CLIENT\WS_CLIENT\bin\Debug\netcoreapp2.1\WS_CLIENT.dll
+C:\Users\Kelv\source\repos\WS_CLIENT\WS_CLIENT\obj\Debug\netcoreapp2.1\WS_CLIENT.vbprojAssemblyReference.cache
+C:\Users\Kelv\source\repos\WS_CLIENT\WS_CLIENT\obj\Debug\netcoreapp2.1\WS_CLIENT.vbproj.CoreCompileInputs.cache
+C:\Users\Kelv\source\repos\WS_CLIENT\WS_CLIENT\obj\Debug\netcoreapp2.1\WS_CLIENT.AssemblyInfoInputs.cache
+C:\Users\Kelv\source\repos\WS_CLIENT\WS_CLIENT\obj\Debug\netcoreapp2.1\WS_CLIENT.AssemblyInfo.vb
+C:\Users\Kelv\source\repos\WS_CLIENT\WS_CLIENT\bin\Debug\netcoreapp2.1\WS_CLIENT.pdb
+C:\Users\Kelv\source\repos\WS_CLIENT\WS_CLIENT\obj\Debug\netcoreapp2.1\WS_CLIENT.dll
+C:\Users\Kelv\source\repos\WS_CLIENT\WS_CLIENT\obj\Debug\netcoreapp2.1\WS_CLIENT.pdb
